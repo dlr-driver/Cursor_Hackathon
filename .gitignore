@@ -24,3 +24,6 @@ build/
 .ipynb_checkpoints/
 .idea/
 .vscode/
+
+# Screener outputs; rebuild with python -m same_person.screener
+outputs/screener/
