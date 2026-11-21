@@ -26,4 +26,6 @@ build/
 .vscode/
 
 # Screener outputs; rebuild with python -m same_person.screener
-outputs/screener/
+outputs/screener/*
+!outputs/screener/dashboard.html
+!outputs/screener/screener_results.csv
